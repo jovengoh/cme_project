@@ -1,0 +1,890 @@
+date,name,value
+2014-01-01,Afghanistan,42.87
+2017-01-01,Afghanistan,46.54
+2020-01-01,Afghanistan,52.86
+2021-01-01,Afghanistan,39.33
+2012-01-01,Albania,41.85
+2013-01-01,Albania,43.28
+2014-01-01,Albania,41.69
+2015-01-01,Albania,41.46
+2016-01-01,Albania,42.85
+2017-01-01,Albania,42.34
+2018-01-01,Albania,42.55
+2019-01-01,Albania,42.61
+2011-01-01,Argentina,37.84
+2012-01-01,Argentina,37.14
+2013-01-01,Argentina,36.94
+2014-01-01,Argentina,36.63
+2017-01-01,Argentina,35.72
+2018-01-01,Argentina,35.3
+2019-01-01,Argentina,34.84
+2020-01-01,Argentina,30.5
+2021-01-01,Argentina,34.45
+2013-01-01,Armenia,44.7
+2014-01-01,Armenia,43.68
+2015-01-01,Armenia,41.98
+2016-01-01,Armenia,41.09
+2017-01-01,Armenia,41.56
+2018-01-01,Armenia,42.44
+2019-01-01,Armenia,42.31
+2020-01-01,Armenia,39.21
+2011-01-01,Australia,33.13
+2012-01-01,Australia,33.27
+2013-01-01,Australia,33.22
+2014-01-01,Australia,33.26
+2015-01-01,Australia,32.98
+2016-01-01,Australia,32.67
+2017-01-01,Australia,32.74
+2018-01-01,Australia,32.72
+2019-01-01,Australia,32.53
+2020-01-01,Australia,32.04
+2011-01-01,Austria,31.16
+2012-01-01,Austria,30.77
+2013-01-01,Austria,30.45
+2014-01-01,Austria,30.4
+2015-01-01,Austria,29.86
+2016-01-01,Austria,30.06
+2017-01-01,Austria,29.77
+2018-01-01,Austria,29.71
+2019-01-01,Austria,30.03
+2020-01-01,Austria,28.2
+2021-01-01,Austria,28.48
+2013-01-01,Azerbaijan,35.26
+2015-01-01,Azerbaijan,35.95
+2016-01-01,Azerbaijan,35.89
+2017-01-01,Azerbaijan,35.64
+2018-01-01,Azerbaijan,35.47
+2019-01-01,Azerbaijan,36.5
+2020-01-01,Azerbaijan,37.85
+2021-01-01,Azerbaijan,34.25
+2013-01-01,Bangladesh,47.5
+2016-01-01,Bangladesh,54
+2017-01-01,Bangladesh,51.46
+2016-01-01,Belarus,34.69
+2017-01-01,Belarus,35.04
+2018-01-01,Belarus,35.41
+2019-01-01,Belarus,35.47
+2020-01-01,Belarus,34.86
+2021-01-01,Belarus,35.52
+2011-01-01,Belgium,34.89
+2012-01-01,Belgium,34.65
+2013-01-01,Belgium,34.63
+2014-01-01,Belgium,34.94
+2015-01-01,Belgium,34.81
+2016-01-01,Belgium,35.1
+2017-01-01,Belgium,35.05
+2018-01-01,Belgium,35.1
+2019-01-01,Belgium,34.86
+2020-01-01,Belgium,34.46
+2021-01-01,Belgium,33.67
+2015-01-01,Belize,45
+2016-01-01,Belize,47.9
+2017-01-01,Belize,43
+2019-01-01,Belize,42.33
+2020-01-01,Belize,40
+2018-01-01,Bhutan,49.75
+2019-01-01,Bhutan,50.15
+2020-01-01,Bhutan,47.65
+2021-01-01,Bhutan,49.17
+2019-01-01,Bolivia,42.44
+2021-01-01,Bolivia,40.34
+2011-01-01,Bosnia and Herzegovina,41.37
+2012-01-01,Bosnia and Herzegovina,41.54
+2013-01-01,Bosnia and Herzegovina,41.76
+2014-01-01,Bosnia and Herzegovina,41.27
+2015-01-01,Bosnia and Herzegovina,41.11
+2016-01-01,Bosnia and Herzegovina,42.03
+2017-01-01,Bosnia and Herzegovina,41.54
+2018-01-01,Bosnia and Herzegovina,41.52
+2019-01-01,Bosnia and Herzegovina,42.04
+2020-01-01,Bosnia and Herzegovina,40.13
+2021-01-01,Bosnia and Herzegovina,41.72
+2019-01-01,Botswana,45.81
+2020-01-01,Botswana,45.63
+2012-01-01,Brazil,39.14
+2013-01-01,Brazil,39.11
+2014-01-01,Brazil,38.89
+2015-01-01,Brazil,38.54
+2016-01-01,Brazil,38.4
+2017-01-01,Brazil,37.92
+2018-01-01,Brazil,37.75
+2019-01-01,Brazil,37.86
+2020-01-01,Brazil,35.43
+2021-01-01,Brazil,38.28
+2014-01-01,Brunei Darussalam,46.66
+2017-01-01,Brunei Darussalam,47.32
+2018-01-01,Brunei Darussalam,47.45
+2019-01-01,Brunei Darussalam,47.32
+2020-01-01,Brunei Darussalam,44.89
+2021-01-01,Brunei Darussalam,46.86
+2011-01-01,Bulgaria,40
+2012-01-01,Bulgaria,39.87
+2013-01-01,Bulgaria,39.73
+2014-01-01,Bulgaria,39.8
+2015-01-01,Bulgaria,39.98
+2016-01-01,Bulgaria,40.08
+2017-01-01,Bulgaria,39.85
+2018-01-01,Bulgaria,39.75
+2019-01-01,Bulgaria,39.53
+2020-01-01,Bulgaria,39.29
+2021-01-01,Bulgaria,39.39
+2011-01-01,Cambodia,50.28
+2012-01-01,Cambodia,49.48
+2013-01-01,Cambodia,51.23
+2014-01-01,Cambodia,51.26
+2015-01-01,Cambodia,50.92
+2016-01-01,Cambodia,50.18
+2017-01-01,Cambodia,51.25
+2019-01-01,Cambodia,48.92
+2017-01-01,Cabo Verde,43.8
+2018-01-01,Cabo Verde,42.5
+2019-01-01,Cabo Verde,44.4
+2011-01-01,Cayman Islands,40
+2012-01-01,Cayman Islands,44
+2013-01-01,Cayman Islands,42
+2014-01-01,Cayman Islands,41.48
+2015-01-01,Cayman Islands,42
+2019-01-01,Chile,38.17
+2020-01-01,Chile,36.22
+2021-01-01,Chile,38.22
+2011-01-01,Colombia,47
+2012-01-01,Colombia,46.56
+2013-01-01,Colombia,46.22
+2014-01-01,Colombia,45.76
+2015-01-01,Colombia,45.68
+2016-01-01,Colombia,45.47
+2017-01-01,Colombia,45.11
+2018-01-01,Colombia,45.35
+2019-01-01,Colombia,45.11
+2020-01-01,Colombia,42.52
+2021-01-01,Colombia,45.55
+2014-01-01,Comoros,43.85
+2021-01-01,Comoros,38.95
+2012-01-01,"Congo, Democratic Republic of the",41.7
+2020-01-01,"Congo, Democratic Republic of the",36.16
+2016-01-01,Cook Islands,36.18
+2019-01-01,Cook Islands,37.42
+2017-01-01,Costa Rica,43.28
+2018-01-01,Costa Rica,42.57
+2019-01-01,Costa Rica,41.58
+2020-01-01,Costa Rica,39.46
+2021-01-01,Costa Rica,42.2
+2011-01-01,Croatia,40.87
+2012-01-01,Croatia,40.45
+2013-01-01,Croatia,40.12
+2014-01-01,Croatia,39.84
+2015-01-01,Croatia,38.89
+2016-01-01,Croatia,38.7
+2017-01-01,Croatia,38.96
+2018-01-01,Croatia,38.63
+2019-01-01,Croatia,38.39
+2020-01-01,Croatia,38.05
+2021-01-01,Croatia,38.26
+2018-01-01,Curaçao,38.4
+2011-01-01,Cyprus,35.7
+2012-01-01,Cyprus,36.25
+2013-01-01,Cyprus,35.47
+2014-01-01,Cyprus,35.51
+2015-01-01,Cyprus,35.74
+2016-01-01,Cyprus,36.13
+2017-01-01,Cyprus,36
+2018-01-01,Cyprus,35.9
+2019-01-01,Cyprus,35.49
+2020-01-01,Cyprus,32.75
+2021-01-01,Cyprus,34.58
+2011-01-01,Czechia,35.85
+2012-01-01,Czechia,35.51
+2013-01-01,Czechia,35.09
+2014-01-01,Czechia,35.12
+2015-01-01,Czechia,34.82
+2016-01-01,Czechia,35.24
+2017-01-01,Czechia,34.71
+2018-01-01,Czechia,34.61
+2019-01-01,Czechia,34.59
+2020-01-01,Czechia,32.87
+2021-01-01,Czechia,34.18
+2016-01-01,Côte d'Ivoire,44.09
+2017-01-01,Côte d'Ivoire,47.21
+2019-01-01,Côte d'Ivoire,40.06
+2011-01-01,Denmark,34.78
+2012-01-01,Denmark,34.55
+2013-01-01,Denmark,34.57
+2014-01-01,Denmark,34.31
+2015-01-01,Denmark,34.24
+2016-01-01,Denmark,34.01
+2017-01-01,Denmark,34.02
+2018-01-01,Denmark,33.73
+2019-01-01,Denmark,33.44
+2020-01-01,Denmark,33.63
+2021-01-01,Denmark,33.81
+2014-01-01,Dominican Republic,43.9
+2015-01-01,Dominican Republic,41.66
+2016-01-01,Dominican Republic,41.28
+2017-01-01,Dominican Republic,40.51
+2018-01-01,Dominican Republic,40.35
+2019-01-01,Dominican Republic,39.81
+2020-01-01,Dominican Republic,33.6
+2021-01-01,Dominican Republic,39.29
+2013-01-01,Ecuador,42
+2014-01-01,Ecuador,41.53
+2015-01-01,Ecuador,41.55
+2016-01-01,Ecuador,41.19
+2017-01-01,Ecuador,40.83
+2018-01-01,Ecuador,40.7
+2019-01-01,Ecuador,39.79
+2020-01-01,Ecuador,37.79
+2011-01-01,Egypt,45.73
+2012-01-01,Egypt,45.64
+2013-01-01,Egypt,46.01
+2015-01-01,Egypt,46.45
+2016-01-01,Egypt,43.54
+2017-01-01,Egypt,44.84
+2018-01-01,Egypt,45.7
+2019-01-01,Egypt,46.34
+2020-01-01,Egypt,41.62
+2021-01-01,Egypt,43.27
+2013-01-01,El Salvador,44.42
+2014-01-01,El Salvador,44.61
+2015-01-01,El Salvador,44.26
+2016-01-01,El Salvador,44
+2017-01-01,El Salvador,44.45
+2018-01-01,El Salvador,44.25
+2019-01-01,El Salvador,44.83
+2020-01-01,El Salvador,44.77
+2021-01-01,El Salvador,45.2
+2011-01-01,Estonia,36.3
+2012-01-01,Estonia,35.67
+2013-01-01,Estonia,35.36
+2014-01-01,Estonia,35.32
+2015-01-01,Estonia,35.08
+2016-01-01,Estonia,35.08
+2017-01-01,Estonia,35.2
+2018-01-01,Estonia,34.13
+2019-01-01,Estonia,33.92
+2020-01-01,Estonia,32.96
+2021-01-01,Estonia,37.06
+2016-01-01,Eswatini,47.94
+2013-01-01,Ethiopia,43.64
+2021-01-01,Ethiopia,41.75
+2011-01-01,Finland,35.83
+2012-01-01,Finland,35.56
+2013-01-01,Finland,35.43
+2014-01-01,Finland,35.26
+2015-01-01,Finland,35.31
+2016-01-01,Finland,35.64
+2017-01-01,Finland,35.56
+2018-01-01,Finland,35.35
+2019-01-01,Finland,35.27
+2020-01-01,Finland,35.38
+2021-01-01,Finland,34.51
+2011-01-01,France,35.09
+2012-01-01,France,34.95
+2013-01-01,France,34.51
+2014-01-01,France,34.37
+2015-01-01,France,34.48
+2016-01-01,France,29.93
+2017-01-01,France,29.92
+2018-01-01,France,29.77
+2019-01-01,France,29.88
+2020-01-01,France,27.9
+2021-01-01,France,29.14
+2012-01-01,Gambia,49.69
+2018-01-01,Gambia,50
+2017-01-01,Georgia,43.29
+2018-01-01,Georgia,44.39
+2019-01-01,Georgia,44.56
+2020-01-01,Georgia,43.02
+2011-01-01,Germany,34.89
+2012-01-01,Germany,34.82
+2013-01-01,Germany,34.63
+2014-01-01,Germany,34.71
+2015-01-01,Germany,34.65
+2016-01-01,Germany,34.78
+2017-01-01,Germany,34.54
+2018-01-01,Germany,34.5
+2019-01-01,Germany,34.43
+2020-01-01,Germany,33.89
+2021-01-01,Germany,33.86
+2013-01-01,Ghana,48.72
+2015-01-01,Ghana,38.45
+2017-01-01,Ghana,41.29
+2011-01-01,Greece,37.18
+2012-01-01,Greece,37.1
+2013-01-01,Greece,36.94
+2014-01-01,Greece,36.56
+2015-01-01,Greece,36.7
+2016-01-01,Greece,36.8
+2017-01-01,Greece,36.67
+2018-01-01,Greece,36.61
+2019-01-01,Greece,36.46
+2020-01-01,Greece,33.01
+2021-01-01,Greece,35.35
+2011-01-01,Guatemala,31.88
+2012-01-01,Guatemala,32.16
+2013-01-01,Guatemala,40.75
+2014-01-01,Guatemala,46.22
+2015-01-01,Guatemala,47
+2016-01-01,Guatemala,46.16
+2018-01-01,Guyana,41.82
+2019-01-01,Guyana,42.88
+2015-01-01,Honduras,43.34
+2016-01-01,Honduras,44.96
+2017-01-01,Honduras,44.37
+2018-01-01,Honduras,44
+2019-01-01,Honduras,43.9
+2020-01-01,Honduras,43.19
+2011-01-01,"Hong Kong, China",45
+2012-01-01,"Hong Kong, China",45
+2013-01-01,"Hong Kong, China",45
+2014-01-01,"Hong Kong, China",44
+2015-01-01,"Hong Kong, China",44
+2016-01-01,"Hong Kong, China",44
+2011-01-01,Hungary,37.52
+2012-01-01,Hungary,36.74
+2013-01-01,Hungary,36.74
+2014-01-01,Hungary,36.86
+2015-01-01,Hungary,36.74
+2016-01-01,Hungary,37.48
+2017-01-01,Hungary,36.81
+2018-01-01,Hungary,36.3
+2019-01-01,Hungary,36.5
+2020-01-01,Hungary,35.54
+2021-01-01,Hungary,34.53
+2011-01-01,Iceland,39.19
+2012-01-01,Iceland,39.28
+2013-01-01,Iceland,39
+2014-01-01,Iceland,39.09
+2015-01-01,Iceland,39.45
+2016-01-01,Iceland,39.44
+2017-01-01,Iceland,39.3
+2018-01-01,Iceland,38.9
+2019-01-01,Iceland,38.8
+2020-01-01,Iceland,37.21
+2021-01-01,Iceland,35.79
+2017-01-01,Indonesia,42.52
+2019-01-01,Indonesia,41.77
+2020-01-01,Indonesia,40.42
+2021-01-01,Indonesia,39.23
+2011-01-01,"Iran, Islamic Republic of",45.93
+2012-01-01,"Iran, Islamic Republic of",46.04
+2013-01-01,"Iran, Islamic Republic of",45.24
+2014-01-01,"Iran, Islamic Republic of",44.35
+2015-01-01,"Iran, Islamic Republic of",45.39
+2016-01-01,"Iran, Islamic Republic of",43.87
+2017-01-01,"Iran, Islamic Republic of",45.52
+2018-01-01,"Iran, Islamic Republic of",43.89
+2019-01-01,"Iran, Islamic Republic of",45.41
+2020-01-01,"Iran, Islamic Republic of",42.87
+2012-01-01,Iraq,39.87
+2014-01-01,Iraq,45.56
+2021-01-01,Iraq,29.71
+2011-01-01,Ireland,33.58
+2012-01-01,Ireland,33.75
+2013-01-01,Ireland,33.89
+2014-01-01,Ireland,34.05
+2015-01-01,Ireland,33.96
+2016-01-01,Ireland,34.31
+2017-01-01,Ireland,34.79
+2018-01-01,Ireland,35.34
+2019-01-01,Ireland,35.29
+2020-01-01,Ireland,35.53
+2021-01-01,Ireland,35.1
+2012-01-01,Israel,35.94
+2013-01-01,Israel,35.75
+2014-01-01,Israel,35.6
+2015-01-01,Israel,35.66
+2016-01-01,Israel,36.24
+2017-01-01,Israel,36.19
+2018-01-01,Israel,36.11
+2019-01-01,Israel,35.7
+2020-01-01,Israel,33.6
+2021-01-01,Israel,35.56
+2011-01-01,Italy,35.71
+2012-01-01,Italy,35.13
+2013-01-01,Italy,34.93
+2014-01-01,Italy,34.78
+2015-01-01,Italy,34.86
+2016-01-01,Italy,35.03
+2017-01-01,Italy,35.1
+2018-01-01,Italy,35.31
+2019-01-01,Italy,35.24
+2020-01-01,Italy,34.68
+2021-01-01,Italy,34.85
+2011-01-01,Jamaica,41.71
+2012-01-01,Jamaica,42.17
+2013-01-01,Jamaica,41.85
+2014-01-01,Jamaica,41.53
+2018-01-01,Japan,38.3
+2019-01-01,Japan,38
+2020-01-01,Japan,36.9
+2017-01-01,Jordan,47.17
+2018-01-01,Jordan,46.71
+2019-01-01,Jordan,47.73
+2020-01-01,Jordan,47.89
+2021-01-01,Jordan,47.01
+2011-01-01,Kazakhstan,40
+2012-01-01,Kazakhstan,40
+2013-01-01,Kazakhstan,39
+2015-01-01,Kazakhstan,38
+2017-01-01,Kazakhstan,38
+2019-01-01,Kenya,47.24
+2020-01-01,Kiribati,36.64
+2011-01-01,"Korea, Republic of",43.41
+2012-01-01,"Korea, Republic of",44.2
+2013-01-01,"Korea, Republic of",42.63
+2014-01-01,"Korea, Republic of",43.67
+2015-01-01,"Korea, Republic of",42.59
+2016-01-01,"Korea, Republic of",41.81
+2017-01-01,"Korea, Republic of",41.56
+2018-01-01,"Korea, Republic of",40.22
+2019-01-01,"Korea, Republic of",39.34
+2020-01-01,"Korea, Republic of",37.85
+2021-01-01,"Korea, Republic of",37.67
+2018-01-01,Kosovo,43.85
+2019-01-01,Kosovo,42.18
+2020-01-01,Kosovo,38.33
+2021-01-01,Kosovo,41.69
+2011-01-01,Kyrgyzstan,40.29
+2012-01-01,Kyrgyzstan,39.94
+2013-01-01,Kyrgyzstan,40.45
+2014-01-01,Kyrgyzstan,40.61
+2015-01-01,Kyrgyzstan,41.04
+2016-01-01,Kyrgyzstan,41.11
+2017-01-01,Kyrgyzstan,40.89
+2018-01-01,Kyrgyzstan,41.17
+2019-01-01,Kyrgyzstan,40.34
+2020-01-01,Kyrgyzstan,37.26
+2021-01-01,Kyrgyzstan,40.26
+2017-01-01,Lao People's Democratic Republic,41.27
+2011-01-01,Latvia,39.26
+2012-01-01,Latvia,39.3
+2013-01-01,Latvia,39.24
+2014-01-01,Latvia,39.43
+2015-01-01,Latvia,39.31
+2016-01-01,Latvia,39.46
+2017-01-01,Latvia,39.08
+2018-01-01,Latvia,39.22
+2019-01-01,Latvia,38.82
+2020-01-01,Latvia,38.47
+2021-01-01,Latvia,38.7
+2019-01-01,Lebanon,46.91
+2019-01-01,Lesotho,51.35
+2017-01-01,Liberia,49.19
+2011-01-01,Lithuania,39.07
+2012-01-01,Lithuania,38.9
+2013-01-01,Lithuania,39.03
+2014-01-01,Lithuania,39.06
+2015-01-01,Lithuania,38.93
+2016-01-01,Lithuania,39.04
+2017-01-01,Lithuania,38.45
+2018-01-01,Lithuania,38.54
+2019-01-01,Lithuania,38.7
+2020-01-01,Lithuania,38.48
+2021-01-01,Lithuania,39.04
+2011-01-01,Luxembourg,37.68
+2012-01-01,Luxembourg,38.08
+2013-01-01,Luxembourg,37.85
+2014-01-01,Luxembourg,37.99
+2015-01-01,Luxembourg,38.08
+2016-01-01,Luxembourg,37.85
+2017-01-01,Luxembourg,37.52
+2018-01-01,Luxembourg,37.73
+2019-01-01,Luxembourg,37.96
+2020-01-01,Luxembourg,37.19
+2021-01-01,Luxembourg,36.04
+2015-01-01,Madagascar,41.59
+2013-01-01,Malawi,32.02
+2011-01-01,Malaysia,47.9
+2012-01-01,Malaysia,48
+2013-01-01,Malaysia,47.7
+2014-01-01,Malaysia,47.8
+2015-01-01,Malaysia,47.1
+2016-01-01,Malaysia,47.1
+2018-01-01,Malaysia,46.7
+2019-01-01,Malaysia,46.5
+2020-01-01,Malaysia,43.8
+2014-01-01,Maldives,44.66
+2016-01-01,Maldives,50.08
+2019-01-01,Maldives,48.31
+2013-01-01,Mali,45.97
+2014-01-01,Mali,46.2
+2015-01-01,Mali,45.91
+2016-01-01,Mali,47.29
+2017-01-01,Mali,46.81
+2018-01-01,Mali,46.38
+2020-01-01,Mali,46.89
+2011-01-01,Malta,34.91
+2012-01-01,Malta,35.13
+2013-01-01,Malta,34.85
+2014-01-01,Malta,34.3
+2015-01-01,Malta,34.31
+2016-01-01,Malta,35.46
+2017-01-01,Malta,35.1
+2018-01-01,Malta,35.21
+2019-01-01,Malta,36.24
+2020-01-01,Malta,33.74
+2021-01-01,Malta,43.63
+2019-01-01,Marshall Islands,39.94
+2011-01-01,Mauritius,40.34
+2012-01-01,Mauritius,38.33
+2013-01-01,Mauritius,37.64
+2014-01-01,Mauritius,36.97
+2015-01-01,Mauritius,37.35
+2016-01-01,Mauritius,37.48
+2017-01-01,Mauritius,38.28
+2018-01-01,Mauritius,36.3
+2019-01-01,Mauritius,37.87
+2021-01-01,Mauritius,40.37
+2013-01-01,Mexico,43.83
+2014-01-01,Mexico,43.84
+2015-01-01,Mexico,44.05
+2016-01-01,Mexico,44.31
+2017-01-01,Mexico,44.49
+2018-01-01,Mexico,44.45
+2019-01-01,Mexico,44.15
+2020-01-01,Mexico,40.82
+2021-01-01,Mexico,43.56
+2014-01-01,"Micronesia, Federated States of",38.58
+2011-01-01,"Moldova, Republic of",39.71
+2012-01-01,"Moldova, Republic of",39.21
+2013-01-01,"Moldova, Republic of",39.15
+2014-01-01,"Moldova, Republic of",38.84
+2015-01-01,"Moldova, Republic of",38.42
+2016-01-01,"Moldova, Republic of",38.56
+2017-01-01,"Moldova, Republic of",38.67
+2018-01-01,"Moldova, Republic of",38.82
+2019-01-01,"Moldova, Republic of",38.61
+2020-01-01,"Moldova, Republic of",36.2
+2021-01-01,"Moldova, Republic of",38.83
+2011-01-01,Mongolia,46.64
+2012-01-01,Mongolia,47.58
+2013-01-01,Mongolia,46.88
+2014-01-01,Mongolia,46.7
+2015-01-01,Mongolia,46.81
+2016-01-01,Mongolia,46
+2017-01-01,Mongolia,46
+2018-01-01,Mongolia,48
+2019-01-01,Mongolia,47.36
+2020-01-01,Mongolia,44.02
+2021-01-01,Mongolia,42.87
+2011-01-01,Montenegro,40.62
+2012-01-01,Montenegro,40.6
+2013-01-01,Montenegro,43.51
+2014-01-01,Montenegro,42.67
+2015-01-01,Montenegro,42.85
+2016-01-01,Montenegro,42.74
+2017-01-01,Montenegro,42.7
+2018-01-01,Montenegro,43.31
+2019-01-01,Montenegro,43.61
+2020-01-01,Montenegro,42.68
+2020-01-01,Montserrat,37.91
+2015-01-01,Mozambique,43.8
+2015-01-01,Myanmar,50.62
+2017-01-01,Myanmar,49.48
+2018-01-01,Myanmar,46.32
+2019-01-01,Myanmar,47.36
+2020-01-01,Myanmar,44.72
+2013-01-01,Nauru,40.38
+2017-01-01,Nepal,42.4
+2011-01-01,Netherlands,30.99
+2012-01-01,Netherlands,30.8
+2013-01-01,Netherlands,30.81
+2014-01-01,Netherlands,31.04
+2015-01-01,Netherlands,30.89
+2016-01-01,Netherlands,31.21
+2017-01-01,Netherlands,31.19
+2018-01-01,Netherlands,31.06
+2019-01-01,Netherlands,31.1
+2020-01-01,Netherlands,30.85
+2021-01-01,Netherlands,30.36
+2017-01-01,Niger,39.55
+2011-01-01,North Macedonia,40.09
+2012-01-01,North Macedonia,40.55
+2013-01-01,North Macedonia,40.54
+2014-01-01,North Macedonia,40.38
+2015-01-01,North Macedonia,39.95
+2016-01-01,North Macedonia,40.29
+2017-01-01,North Macedonia,40.76
+2018-01-01,North Macedonia,40.11
+2019-01-01,North Macedonia,39.34
+2020-01-01,North Macedonia,35.14
+2021-01-01,North Macedonia,38.12
+2011-01-01,Norway,34.18
+2012-01-01,Norway,34.29
+2013-01-01,Norway,34.1
+2014-01-01,Norway,34.32
+2015-01-01,Norway,34.04
+2016-01-01,Norway,34.17
+2017-01-01,Norway,34.14
+2018-01-01,Norway,33.93
+2019-01-01,Norway,33.83
+2020-01-01,Norway,33.77
+2021-01-01,Norway,33.46
+2012-01-01,Occupied Palestinian Territory,41.2
+2013-01-01,Occupied Palestinian Territory,41.6
+2015-01-01,Occupied Palestinian Territory,35.67
+2016-01-01,Occupied Palestinian Territory,36.06
+2017-01-01,Occupied Palestinian Territory,36.85
+2018-01-01,Occupied Palestinian Territory,37.17
+2019-01-01,Occupied Palestinian Territory,37.51
+2020-01-01,Occupied Palestinian Territory,33.58
+2021-01-01,Occupied Palestinian Territory,37.81
+2013-01-01,Pakistan,48.27
+2014-01-01,Pakistan,48.85
+2015-01-01,Pakistan,48.51
+2016-01-01,Pakistan,49.89
+2018-01-01,Pakistan,48.66
+2019-01-01,Pakistan,48.49
+2021-01-01,Pakistan,48.73
+2014-01-01,Palau,42.55
+2020-01-01,Palau,40.48
+2011-01-01,Panama,43.72
+2012-01-01,Panama,42.9
+2013-01-01,Panama,43.13
+2014-01-01,Panama,42.83
+2015-01-01,Panama,42.88
+2016-01-01,Panama,42.49
+2017-01-01,Panama,42.18
+2018-01-01,Panama,41.98
+2019-01-01,Panama,41.96
+2020-01-01,Panama,37.8
+2021-01-01,Panama,39.97
+2011-01-01,Paraguay,46.81
+2012-01-01,Paraguay,45.17
+2013-01-01,Paraguay,45.43
+2014-01-01,Paraguay,45.22
+2015-01-01,Paraguay,43.77
+2016-01-01,Paraguay,44.27
+2017-01-01,Paraguay,44.16
+2018-01-01,Paraguay,42.19
+2019-01-01,Paraguay,41.53
+2020-01-01,Paraguay,38.44
+2021-01-01,Paraguay,41.45
+2017-01-01,Philippines,43.07
+2018-01-01,Philippines,43.51
+2019-01-01,Philippines,43.19
+2020-01-01,Philippines,36.35
+2021-01-01,Philippines,40.61
+2011-01-01,Poland,39.97
+2012-01-01,Poland,39.86
+2013-01-01,Poland,39.68
+2014-01-01,Poland,39.87
+2015-01-01,Poland,39.95
+2016-01-01,Poland,40
+2017-01-01,Poland,39.64
+2018-01-01,Poland,39.12
+2019-01-01,Poland,39.04
+2020-01-01,Poland,38.75
+2021-01-01,Poland,39.36
+2011-01-01,Portugal,38.82
+2012-01-01,Portugal,38.71
+2013-01-01,Portugal,38.81
+2014-01-01,Portugal,39.01
+2015-01-01,Portugal,39.01
+2016-01-01,Portugal,38.46
+2017-01-01,Portugal,38.33
+2018-01-01,Portugal,38.42
+2019-01-01,Portugal,38.26
+2020-01-01,Portugal,37.43
+2021-01-01,Portugal,37.88
+2011-01-01,Qatar,51
+2012-01-01,Qatar,50
+2014-01-01,Qatar,49
+2011-01-01,Romania,41.63
+2012-01-01,Romania,41.54
+2013-01-01,Romania,41.4
+2014-01-01,Romania,41.22
+2015-01-01,Romania,40.91
+2016-01-01,Romania,40.9
+2017-01-01,Romania,40.78
+2018-01-01,Romania,40.69
+2019-01-01,Romania,40.83
+2020-01-01,Romania,40.29
+2021-01-01,Romania,40.24
+2016-01-01,Russian Federation,38.38
+2017-01-01,Russian Federation,38.34
+2018-01-01,Russian Federation,38.23
+2019-01-01,Russian Federation,38.13
+2020-01-01,Russian Federation,36.4
+2021-01-01,Russian Federation,38.14
+2014-01-01,Rwanda,33.6
+2017-01-01,Rwanda,31.61
+2018-01-01,Rwanda,32.35
+2019-01-01,Rwanda,32.13
+2020-01-01,Rwanda,30.52
+2021-01-01,Rwanda,27.83
+2012-01-01,Réunion,28.75
+2017-01-01,Saint Lucia,40.08
+2018-01-01,Saint Lucia,40.63
+2019-01-01,Saint Lucia,40.45
+2020-01-01,Saint Lucia,29.78
+2021-01-01,Saint Lucia,37.53
+2012-01-01,Samoa,44.53
+2014-01-01,Samoa,39.3
+2017-01-01,Samoa,44.52
+2015-01-01,Senegal,52.55
+2016-01-01,Senegal,53.16
+2019-01-01,Senegal,50.93
+2011-01-01,Serbia,41.98
+2012-01-01,Serbia,42.14
+2013-01-01,Serbia,41.62
+2014-01-01,Serbia,37.44
+2015-01-01,Serbia,38.88
+2016-01-01,Serbia,39.03
+2017-01-01,Serbia,38.71
+2018-01-01,Serbia,38.99
+2019-01-01,Serbia,39.01
+2020-01-01,Serbia,38.06
+2021-01-01,Serbia,38.75
+2014-01-01,Seychelles,40.76
+2015-01-01,Seychelles,41.09
+2016-01-01,Seychelles,40.93
+2017-01-01,Seychelles,39.77
+2018-01-01,Seychelles,40.94
+2019-01-01,Seychelles,41.17
+2020-01-01,Seychelles,40.4
+2014-01-01,Sierra Leone,39.91
+2018-01-01,Sierra Leone,45.45
+2012-01-01,Slovakia,36.23
+2013-01-01,Slovakia,36.19
+2014-01-01,Slovakia,35.75
+2015-01-01,Slovakia,35.35
+2016-01-01,Slovakia,35.2
+2017-01-01,Slovakia,34.79
+2018-01-01,Slovakia,34.87
+2019-01-01,Slovakia,35.28
+2020-01-01,Slovakia,32.88
+2021-01-01,Slovakia,32.72
+2011-01-01,Slovenia,33.33
+2012-01-01,Slovenia,33.35
+2013-01-01,Slovenia,34.01
+2014-01-01,Slovenia,33.68
+2015-01-01,Slovenia,33.76
+2016-01-01,Slovenia,33.72
+2017-01-01,Slovenia,32.88
+2018-01-01,Slovenia,33.05
+2019-01-01,Slovenia,32.88
+2020-01-01,Slovenia,31.74
+2021-01-01,Slovenia,38.65
+2013-01-01,Solomon Islands,42.02
+2019-01-01,Somalia,31.23
+2011-01-01,Spain,36.59
+2012-01-01,Spain,36.14
+2013-01-01,Spain,36.04
+2014-01-01,Spain,35.94
+2015-01-01,Spain,35.98
+2016-01-01,Spain,35.98
+2017-01-01,Spain,35.88
+2018-01-01,Spain,36.19
+2019-01-01,Spain,36
+2020-01-01,Spain,35.76
+2021-01-01,Spain,35.33
+2012-01-01,Sri Lanka,44.1
+2013-01-01,Sri Lanka,43.51
+2014-01-01,Sri Lanka,43.47
+2015-01-01,Sri Lanka,43.17
+2016-01-01,Sri Lanka,44.64
+2017-01-01,Sri Lanka,45.08
+2018-01-01,Sri Lanka,44.25
+2019-01-01,Sri Lanka,43.71
+2020-01-01,Sri Lanka,37.99
+2011-01-01,Sweden,35.54
+2012-01-01,Sweden,35.42
+2013-01-01,Sweden,35.41
+2014-01-01,Sweden,35.29
+2015-01-01,Sweden,35.23
+2016-01-01,Sweden,35.63
+2017-01-01,Sweden,35.44
+2018-01-01,Sweden,35.4
+2019-01-01,Sweden,35.13
+2020-01-01,Sweden,34.58
+2021-01-01,Sweden,35.09
+2011-01-01,Switzerland,34.61
+2012-01-01,Switzerland,34.49
+2013-01-01,Switzerland,34.38
+2014-01-01,Switzerland,34
+2015-01-01,Switzerland,34.23
+2016-01-01,Switzerland,34.44
+2017-01-01,Switzerland,34.32
+2018-01-01,Switzerland,34.14
+2019-01-01,Switzerland,34.02
+2020-01-01,Switzerland,33.4
+2021-01-01,Switzerland,34.28
+2013-01-01,"Tanzania, United Republic of",54
+2020-01-01,"Tanzania, United Republic of",53.86
+2011-01-01,Thailand,47
+2012-01-01,Thailand,46
+2014-01-01,Thailand,44.92
+2015-01-01,Thailand,44.37
+2016-01-01,Thailand,44.25
+2017-01-01,Thailand,44.16
+2018-01-01,Thailand,44.28
+2019-01-01,Thailand,44.01
+2020-01-01,Thailand,41.67
+2021-01-01,Thailand,42.72
+2013-01-01,Timor-Leste,41.13
+2016-01-01,Timor-Leste,37.96
+2021-01-01,Timor-Leste,35.49
+2018-01-01,Tonga,36.26
+2021-01-01,Tonga,37.74
+2011-01-01,Türkiye,49.42
+2012-01-01,Türkiye,50.33
+2013-01-01,Türkiye,48.98
+2014-01-01,Türkiye,48.75
+2015-01-01,Türkiye,48.24
+2016-01-01,Türkiye,47.83
+2017-01-01,Türkiye,47.42
+2018-01-01,Türkiye,46.68
+2019-01-01,Türkiye,45.91
+2020-01-01,Türkiye,44.12
+2021-01-01,Türkiye,44.42
+2016-01-01,Tuvalu,37.94
+2012-01-01,Uganda,47
+2017-01-01,Uganda,45.75
+2021-01-01,Uganda,44.8
+2014-01-01,Ukraine,40
+2016-01-01,Ukraine,40
+2017-01-01,Ukraine,40
+2019-01-01,Ukraine,40
+2011-01-01,United Kingdom,35.26
+2012-01-01,United Kingdom,35.43
+2013-01-01,United Kingdom,35.55
+2014-01-01,United Kingdom,35.76
+2015-01-01,United Kingdom,35.77
+2016-01-01,United Kingdom,35.84
+2017-01-01,United Kingdom,35.76
+2018-01-01,United Kingdom,35.7
+2019-01-01,United Kingdom,35.76
+2020-01-01,United Kingdom,32.6
+2011-01-01,United States,36.49
+2012-01-01,United States,36.62
+2013-01-01,United States,36.81
+2014-01-01,United States,36.83
+2015-01-01,United States,36.79
+2016-01-01,United States,36.9
+2017-01-01,United States,36.81
+2018-01-01,United States,37.07
+2019-01-01,United States,37.16
+2020-01-01,United States,36.27
+2021-01-01,United States,36.9
+2018-01-01,Uruguay,43.98
+2019-01-01,Vanuatu,36.53
+2020-01-01,"Venezuela, Bolivarian Republic of",39.1
+2011-01-01,Viet Nam,47.77
+2012-01-01,Viet Nam,46.49
+2013-01-01,Viet Nam,46.1
+2014-01-01,Viet Nam,45.43
+2015-01-01,Viet Nam,45.37
+2016-01-01,Viet Nam,45.86
+2017-01-01,Viet Nam,43.96
+2018-01-01,Viet Nam,45.39
+2019-01-01,Viet Nam,45.11
+2020-01-01,Viet Nam,44.58
+2021-01-01,Viet Nam,42.61
+2017-01-01,Zambia,45.54
+2018-01-01,Zambia,45.1
+2019-01-01,Zambia,46.11
+2020-01-01,Zambia,44.99
+2021-01-01,Zambia,45.43
+2014-01-01,Zimbabwe,43.29
+2019-01-01,Zimbabwe,44.01

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Bar Chart Race, Explained</title>
+<link rel="stylesheet" type="text/css" href="./inspector.css">
+<body>
+    <h2 style="text-align: center; font-family:Arial, Helvetica, sans-serif;">Racing Chart of Mean Weekly Working Hours of 140 Countries from 2011 to 2021</h2>
+    <!-- <p style="text-align: center;"><img src="countries.png" width="500px"></p> -->
+</body>
+<script type="module">
+
+import define from "./index.js";
+import {Runtime, Library, Inspector} from "./runtime.js";
+
+const runtime = new Runtime();
+const main = runtime.module(define, Inspector.into(document.body));
+
+</script>
