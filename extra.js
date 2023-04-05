@@ -350,7 +350,7 @@ async function _data(d3,FileAttachment){return(
       const main = runtime.module();
       function toString() { return this.url; }
       const fileAttachments = new Map([
-        ["category-brands.csv", {url: new URL("./files/RACING_ILO.csv", import.meta.url), mimeType: "text/csv", toString}]
+        ["category-brands.csv", {url: new URL("./RACING_ILO.csv", import.meta.url), mimeType: "text/csv", toString}]
       ]);
       main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
       main.variable().define("data", ["d3","FileAttachment"], _data);
