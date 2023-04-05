@@ -1,3 +1,4 @@
+
 async function _data(d3,FileAttachment){return(
     d3.csvParse(await FileAttachment("category-brands.csv").text(), d3.autoType)
     )}
@@ -13,7 +14,7 @@ async function _data(d3,FileAttachment){return(
       replay;
     
       const svg = d3.create("svg")
-          .attr("viewBox", [0, 0, width, height]);
+          .attr("viewBox", [0, -40, width, height + 100]);
     
       const updateBars = bars(svg);
       const updateAxis = axis(svg);
@@ -48,7 +49,7 @@ async function _data(d3,FileAttachment){return(
 
  
     function _n(){return(
-    12
+    14
     )}
     
 
@@ -195,14 +196,17 @@ async function _data(d3,FileAttachment){return(
     }
     )}
     
-    function _ticker(barSize,width,margin,n,formatDate,keyframes){return(
+    function _ticker(barSize, width,margin,n,formatDate,keyframes){return(
     function ticker(svg) {
       const now = svg.append("text")
-          .style("font", `bold ${barSize}px var(--sans-serif)`)
+          .style("font", `var(--sans-serif)`)
+          .style("font-size", `50px`)
           .style("font-variant-numeric", "tabular-nums")
+          .style("font-weight", "bold")
+          
           .attr("text-anchor", "end")
-          .attr("x", width - 6)
-          .attr("y", margin.top + barSize * (n - 0.45))
+          .attr("x", width - 6 )
+          .attr("y", margin.bottom -20)
           .attr("dy", "0.32em")
           .text(formatDate(keyframes[0][0]));
     
@@ -268,16 +272,94 @@ async function _data(d3,FileAttachment){return(
     function _d3(require){return(
     require("d3@6")
     )}
+    
+    // function _Scrubber(values, html, Inputs,{
+    //   format = value => value,
+    //   initial = 0,
+    //   delay = null,
+    //   autoplay = true,
+    //   loop = true,
+    //   loopDelay = null,
+    //   alternate = false
+    // } = {}) {
+    //   values = Array.from(values);
+      
+    //   const form = html`<form style="font: 12px var(--sans-serif); font-variant-numeric: tabular-nums; display: flex; height: 33px; align-items: center;">
+    //   <button name=b type=button style="margin-right: 0.4em; width: 5em;"></button>
+    //   <label style="display: flex; align-items: center;">
+    //     <input name=i type=range min=0 max=${values.length - 1} value=${initial} step=1 style="width: 180px;">
+    //     <output name=o style="margin-left: 0.4em;"></output>
+    //   </label>
+    // </form>`;
+    //   let frame = null;
+    //   let timer = null;
+    //   let interval = null;
+    //   let direction = 1;
+    //   function start() {
+    //     form.b.textContent = "Pause";
+    //     if (delay === null) frame = requestAnimationFrame(tick);
+    //     else interval = setInterval(tick, delay);
+    //   }
+    //   function stop() {
+    //     form.b.textContent = "Play";
+    //     if (frame !== null) cancelAnimationFrame(frame), frame = null;
+    //     if (timer !== null) clearTimeout(timer), timer = null;
+    //     if (interval !== null) clearInterval(interval), interval = null;
+    //   }
+    //   function running() {
+    //     return frame !== null || timer !== null || interval !== null;
+    //   }
+    //   function tick() {
+    //     if (form.i.valueAsNumber === (direction > 0 ? values.length - 1 : direction < 0 ? 0 : NaN)) {
+    //       if (!loop) return stop();
+    //       if (alternate) direction = -direction;
+    //       if (loopDelay !== null) {
+    //         if (frame !== null) cancelAnimationFrame(frame), frame = null;
+    //         if (interval !== null) clearInterval(interval), interval = null;
+    //         timer = setTimeout(() => (step(), start()), loopDelay);
+    //         return;
+    //       }
+    //     }
+    //     if (delay === null) frame = requestAnimationFrame(tick);
+    //     step();
+    //   }
+    //   function step() {
+    //     form.i.valueAsNumber = (form.i.valueAsNumber + direction + values.length) % values.length;
+    //     form.i.dispatchEvent(new CustomEvent("input", {bubbles: true}));
+    //   }
+    //   form.i.oninput = event => {
+    //     if (event && event.isTrusted && running()) stop();
+    //     form.value = values[form.i.valueAsNumber];
+    //     form.o.value = format(form.value, form.i.valueAsNumber, values);
+    //   };
+    //   form.b.onclick = () => {
+    //     if (running()) return stop();
+    //     direction = alternate && form.i.valueAsNumber === values.length - 1 ? -1 : 1;
+    //     form.i.valueAsNumber = (form.i.valueAsNumber + direction) % values.length;
+    //     form.i.dispatchEvent(new CustomEvent("input", {bubbles: true}));
+    //     start();
+    //   };
+    //   form.i.oninput();
+    //   if (autoplay) start();
+    //   else stop();
+    //   Inputs.disposal(form).then(stop);
+    //   return form;
+    // }
 
     export default function define(runtime, observer) {
       const main = runtime.module();
       function toString() { return this.url; }
       const fileAttachments = new Map([
-        ["category-brands.csv", {url: new URL("./RACING_ILO.csv", import.meta.url), mimeType: "text/csv", toString}]
+        ["category-brands.csv", {url: new URL("./files/RACING_ILO.csv", import.meta.url), mimeType: "text/csv", toString}]
       ]);
       main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
       main.variable().define("data", ["d3","FileAttachment"], _data);
-     
+      main.variable(observer("viewof replay")).define("viewof replay", ["html"], _replay);
+      main.variable().define("replay", ["Generators", "viewof replay"], (G, _) => G.input(_));
+   
+      // main.variable(observer("viewof scrubber")).define("viewof scrubber", ["datevalues","html","Inputs"], _Scrubber);
+      // main.variable().define("scrubber", ["Generators", "viewof scrubber"], (G, _) => G.input(_));
+
       main.variable(observer("chart")).define("chart", ["replay","d3","width","height","bars","axis","labels","ticker","keyframes","duration","x","invalidation"], _chart);
       main.variable().define("duration", _duration);
       main.variable().define("n", _n);
@@ -314,11 +396,8 @@ async function _data(d3,FileAttachment){return(
       main.variable().define("barSize", _barSize);
       main.variable().define("margin", _margin);
 
-      main.variable(observer("viewof replay")).define("viewof replay", ["html"], _replay);
-      main.variable().define("replay", ["Generators", "viewof replay"], (G, _) => G.input(_));
-
       main.variable().define("d3", ["require"], _d3);
-      
+
       return main;
     }
     
